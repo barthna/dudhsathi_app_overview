@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Doodh Saathi App
 
 > Digital Dairy Management Companion for Milk Vendors & Dairy Businesses.
@@ -71,3 +72,7 @@ Developed by **Barth** and the development team.
 
 - **GitHub:** [@Barth](https://github.com/Barth) *(placeholder - please link to your actual GitHub profile)*
 - **Contact:** [Contact Developer] *(placeholder)*
+=======
+# dudhsathi_app_showcase
+Public showcase for Dudh Sathi mobile app — a smart dairy management application. Source code is maintained privately.
+>>>>>>> a1cdaeeb83ee78eb8fef12892fe58a16e94a3a44
