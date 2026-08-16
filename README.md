@@ -67,7 +67,7 @@ The app is **Active** and currently deployed on the Google Play Store. Regular u
 
 ## 👤 Developer
 
-Developed by **Codetrio Studios**.
+Developed by **Barthna and her team, Codetrio Studios**.
 
 - **GitHub:** [Codetrio Studios](https://github.com/code3trio)
 - **Contact:** [codetrio.studios@gmail.com](mailto:codetrio.studios@gmail.com)
