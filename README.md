@@ -52,10 +52,7 @@ The application is available for download on the Google Play Store:
 
 ## 🔒 Source Code
 
-> [!IMPORTANT]  
-> The source code for **Dudh Sathi App** is maintained in a **private repository** (`dudhsathi_app`). This public repository serves strictly as a project showcase to demonstrate design paradigms, stack selection, and implementation highlights.
-
-For code samples or technical deep dives, feel free to contact the developer.
+The source code for this project is hosted in a private repository. This repository is created only to showcase the project details, key features, and technology stack.
 
 ---
 
