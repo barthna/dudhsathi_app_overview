@@ -53,7 +53,7 @@ The application is available for download on the Google Play Store:
 ## 🔒 Source Code
 
 > [!IMPORTANT]  
-> The source code for **Dudh Sathi App** is maintained in a **private repository** (`dudhsathi_app`) to protect proprietary business logic and commercial licensing agreements. This repository serves strictly as a project showcase to demonstrate design paradigms, stack selection, and implementation highlights.
+> The source code for **Dudh Sathi App** is maintained in a **private repository** (`dudhsathi_app`). This public repository serves strictly as a project showcase to demonstrate design paradigms, stack selection, and implementation highlights.
 
 For code samples or technical deep dives, feel free to contact the developer.
 
@@ -67,7 +67,7 @@ The app is **Active** and currently deployed on the Google Play Store. Regular u
 
 ## 👤 Developer
 
-Developed by **Barth** and the development team.
+Developed by **Codetrio Studios**.
 
-- **GitHub:** [@Barth](https://github.com/Barth) *(placeholder - please link to your actual GitHub profile)*
-- **Contact:** [Contact Developer] *(placeholder)*
+- **GitHub:** [Codetrio Studios](https://github.com/code3trio)
+- **Contact:** [codetrio.studios@gmail.com](mailto:codetrio.studios@gmail.com)
