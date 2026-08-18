@@ -50,12 +50,6 @@ The application is available for download on the Google Play Store:
 
 ---
 
-## 🔒 Source Code
-
-The source code for this project is hosted in a private repository. This repository is created only to showcase the project details, key features, and technology stack.
-
----
-
 ## 📈 Project Status
 
 The app is **Active** and currently deployed on the Google Play Store. Regular updates include performance optimizations, security patches, and localized language support.
